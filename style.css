@@ -55,7 +55,9 @@ body{
     text-align: center;
     padding-right: 1.2rem;
 }
-
+.weather {
+    display: none;
+}
 
 .weather_icon{
     width: 10.625rem;
